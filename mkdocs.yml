@@ -1,0 +1,69 @@
+site_name: Brandon Wang
+site_url: https://brandonwang.me
+theme: 
+  name: material
+  icon:
+    logo: fontawesome/solid/paw
+  # favicon: assets/teddy-bear-icon.png
+  palette:
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+      primary: brown
+      accent: light blue
+    
+    # Dark Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+      primary: deep purple 
+      accent: orange
+
+  features:
+    - navigation.footer
+    - navigation.expand
+docs_dir: docs
+
+
+nav: 
+  - About Me: index.md
+  - Projects: projects.md
+  - Resume: resume.md
+  - CV: cv.md
+    
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed: 
+      alternate_style: true
+  - tables
+
+extra: 
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/brandonwang8/
+
+    - icon: fontawesome/solid/envelope
+      link: mailto:brandon.wang649@duke.edu
+      name: Email me
+  external links: 
+    target: _blank
+    real: noopener noreferrer
+  
+extra_css:
+  - stylesheets/custom.css
+    
+copyright: '<a href="mailto:brandon.wang649@duke.edu">brandon.wang649@duke.edu</a>'
