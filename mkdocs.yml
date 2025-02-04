@@ -32,7 +32,6 @@ nav:
   - About Me: index.md
   - Projects: projects.md
   - Resume: resume.md
-  - CV: cv.md
     
 
 markdown_extensions:
