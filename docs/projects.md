@@ -20,9 +20,7 @@
 
     The primary focus was on integrating motion planning and obstacle avoidance to enable the manipulator to execute tasks efficiently while moving through its surroundings. I worked on **configuring URDF models** for compatiblity with the envrionment, **path planning using A* Algorithm**, and **arm kinematics** for manipulation tasks. Additionally, I implemented sensor-based navigation with **OpenCV**, allowing the robot to respond dynamically to its environment.
 
-    For more information on this project, 
-    
-    [visit my dedicated project site](https://sites.google.com/view/ece383-team8-finalproject/home){ .md-button .md-button--primary}
+    [For more information on this project, visit my dedicated project site here!](https://sites.google.com/view/ece383-team8-finalproject/home){ .md-button .md-button--primary}
 
 === "Amphibious Crawler"
     The Amphibious Crawler is a remotely operated robotic system designed to navigate both land and water while identifying and retrieving visually identical objects based on their ferrous or non-ferrous properties. Using **SolidWorks**, I designed the mechanical structure, ensuring durability and adaptability for amphibious movement. I implemented **Arduino**-based motor control, manually waterproofing motor drivers to maintain functionality in aquatic environments. The system’s movement and retrieval mechanisms were controlled via external joysticks, allowing precise operation. Additionally, I collaborated with my team to integrate inductive sensors and a retrieval apparatus, enabling automated material differentiation and object collection.
