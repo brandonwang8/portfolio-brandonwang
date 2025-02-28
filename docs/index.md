@@ -4,7 +4,7 @@
 
 Hello, welcome to my portfolio! 
 
-My name is **Brandon Wang**, and I’m currently a senior at **Duke University** studying **Mechanical Engineering** with a focus on **Robotics & Automation**. I love designing, prototyping, and bringing ideas to life—especially when it comes to robotics. This passion has led me to pursue a Master of Science in Mechanical Engineering at Duke, which I plan to complete in one year by Spring 2026.
+My name is **Brandon Wang**, and I’m currently a senior at **Duke University** studying **Mechanical Engineering** with a focus on **Robotics & Automation**. I love designing, prototyping, and bringing ideas to life—especially when it comes to robotics. This passion has led me to pursue a **Master of Science** in Mechanical Engineering at Duke, which I plan to complete in one year by Spring 2026.
 
 I am actively involved in **robotics research**, where I contribute to projects that push the boundaries of robotic functionality and adaptability. My work has included designing custom mechanical interfaces, optimizing robotic kinematics, and integrating software-hardware systems.
 
